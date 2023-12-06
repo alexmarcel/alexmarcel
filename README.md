@@ -17,7 +17,7 @@ Currently employed, I'm also open to exciting freelance opportunities.
 - **Databases:** MySQL, MongoDB, Supabase.
 - **Tools & Technologies:** Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
-- **Others:** System administration (Network, Servers, Pcs). 
+- **Others:** System administration (Network, Servers, PCs). 
 
 ## 🙅‍♂️ Contact
 
