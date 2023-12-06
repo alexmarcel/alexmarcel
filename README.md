@@ -14,7 +14,8 @@ Currently employed, I'm also open to exciting freelance opportunities.
 
 - **Programming Languages:** Python, NextJS, NodeJS, SQL, Javascript+HTML+CSS, PHP.
 - **AI/ML Frameworks:** PyTorch.
-- **Tools & Technologies:** Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino, MongoDB, MySQL.
+- **Databases:** MySQL, MongoDB, Supabase.
+- **Tools & Technologies:** Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
 
 - ✉️ alexmarcellinus@gmail.com
