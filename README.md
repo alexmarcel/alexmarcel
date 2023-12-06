@@ -6,7 +6,7 @@ Currently employed, I'm also open to exciting freelance opportunities.
 
 ## 👨‍💻 About
 
-- 💻 I'm a full shack developer.
+- 💻 I'm a full-stack dev.
 - 🌐 I specialize in programming, vfx and system administration.
 - 🏠 Based in Kota Kinabalu - Tawau, Malaysia.
 
