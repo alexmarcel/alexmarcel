@@ -18,13 +18,13 @@ Currently employed, I'm also open to exciting freelance opportunities.
 - **Tools & Technologies:** Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
 
-## Contact
+## 🙅‍♂️ Contact
 
 - ✉️ alexmarcellinus@gmail.com
 
 Feel free to explore my repositories and get in touch if you'd like to discuss a potential project!
 
-## Website
+## 🖐 Website
 
 - 📹 https://www.youtube.com/user/lxmarcel
 - 🌐 www.alexmarcel.com
