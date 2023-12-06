@@ -2,7 +2,7 @@
 
 I'm passionate about artificial intelligence, programming, and visual effects. 
 Currently employed, I'm also open to exciting freelance opportunities. 
-- Current interest : Neural Nets, LLMs, React framework, Blockchains
+- Current interest : Neural Nets, StableDiffusions, LLMs, React framework, Blockchains
 
 ## 👨‍💻 About
 
@@ -14,7 +14,7 @@ Currently employed, I'm also open to exciting freelance opportunities.
 
 - **Programming Languages:** Python, NextJS, NodeJS, SQL, Javascript+HTML+CSS, PHP.
 - **AI/ML Frameworks:** PyTorch.
-- **Tools & Technologies:** Stable Diffusion (ComfyUI, Auto1111), Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino, MongoDB, MySQL.
+- **Tools & Technologies:** Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino, MongoDB, MySQL.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
 
 - ✉️ alexmarcellinus@gmail.com
