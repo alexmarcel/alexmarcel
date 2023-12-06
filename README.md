@@ -24,7 +24,7 @@ Feel free to explore my repositories and get in touch if you'd like to discuss a
 
 ## Website
 
-📹https://www.youtube.com/user/lxmarcel
-🌐 www.alexmarcel.com
+- 📹https://www.youtube.com/user/lxmarcel
+- 🌐 www.alexmarcel.com
 
 
