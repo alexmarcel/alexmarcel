@@ -12,12 +12,10 @@ Currently employed, I'm also open to exciting freelance opportunities.
 
 ## 🤷‍♂️ Skills
 
-- **Programming Languages:** Python, NextJS, SQL, Javascript+HTML+CSS, PHP.
+- **Programming Languages:** Python, NextJS, NodeJS, SQL, Javascript+HTML+CSS, PHP.
 - **AI/ML Frameworks:** PyTorch.
-- **Tools & Technologies:** Stable Diffusion (ComfyUI, Auto1111), Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino.
+- **Tools & Technologies:** Stable Diffusion (ComfyUI, Auto1111), Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino, MongoDB, MySQL.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
-
-## Contact
 
 - ✉️ alexmarcellinus@gmail.com
 
@@ -25,7 +23,7 @@ Feel free to explore my repositories and get in touch if you'd like to discuss a
 
 ## Website
 
-- 📹https://www.youtube.com/user/lxmarcel
+- 📹 https://www.youtube.com/user/lxmarcel
 - 🌐 www.alexmarcel.com
 
 
