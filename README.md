@@ -14,7 +14,7 @@ Currently employed, I'm also open to exciting freelance opportunities.
 
 - **Programming Languages:** Python, NextJS, SQL, Javascript+HTML+CSS, PHP.
 - **AI/ML Frameworks:** PyTorch.
-- **Tools & Technologies:** Stable Diffusion (ComfyUI, Auto1111), Visual Studio Code, Conda, Jupyterlabs/Colab.
+- **Tools & Technologies:** Stable Diffusion (ComfyUI, Auto1111), Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
 
 ## Contact
