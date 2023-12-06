@@ -10,7 +10,7 @@ Currently employed, I'm also open to exciting freelance opportunities.
 - 🌐 I specialize in programming and vfx.
 - 🏠 Based in Kota Kinabalu - Tawau, Malaysia.
 
-## 🚀 Skills
+## 🤷‍♂️ Skills
 
 - **Programming Languages:** Python, NextJS, SQL, Javascript+HTML+CSS, PHP.
 - **AI/ML Frameworks:** PyTorch.
