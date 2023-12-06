@@ -13,7 +13,7 @@ Currently employed, I'm also open to exciting freelance opportunities.
 ## 🤷‍♂️ Skills
 
 - **Programming Languages:** Python, NextJS, NodeJS, SQL, Javascript+HTML+CSS, PHP.
-- **AI/ML Frameworks:** PyTorch.
+- **AI/ML/CV Frameworks:** PyTorch, OpenCV.
 - **Databases:** MySQL, MongoDB, Supabase.
 - **Tools & Technologies:** Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
