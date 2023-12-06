@@ -1,6 +1,7 @@
 # Hello 
 
-I'm passionate about artificial intelligence, programming, and visual effects. Currently employed, I'm also open to exciting freelance opportunities. Here's a bit about me:
+I'm passionate about artificial intelligence, programming, and visual effects. 
+Currently employed, I'm also open to exciting freelance opportunities. Here's a bit about me:
 
 ## 👨‍💻 About
 
