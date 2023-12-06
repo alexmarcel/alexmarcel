@@ -18,12 +18,13 @@ Currently employed, I'm also open to exciting freelance opportunities. Here's a 
 
 ## Contact
 
-- ✉️ [Email] alexmarcellinus@gmail.com
+- ✉️ alexmarcellinus@gmail.com
 
 Feel free to explore my repositories and get in touch if you'd like to discuss a potential project!
 
 ## Website
 
- www.alexmarcel.com
+📹https://www.youtube.com/user/lxmarcel
+🌐 www.alexmarcel.com
 
 
