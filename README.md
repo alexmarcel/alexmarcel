@@ -1,6 +1,6 @@
 # Hello 
 
-I'm passionate about artificial intelligence, programming, and visual effects. 
+Artificial intelligence, programming, and visual effects. 
 Currently employed, I'm also open to exciting freelance opportunities. 
 - Current interest : Neural Nets, StableDiffusions, LLMs, React framework, Blockchains
 
