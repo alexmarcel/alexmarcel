@@ -1,7 +1,7 @@
 # Hello 
 
 Artificial intelligence, programming, and visual effects. 
-Currently employed, I'm also open to exciting freelance opportunities. 
+Currently employed, I'm also open to freelance opportunities. 
 - Current interest : Neural Nets, StableDiffusions, LLMs, React framework, Blockchains
 
 ## 👨‍💻 About
