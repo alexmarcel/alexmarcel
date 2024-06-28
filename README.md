@@ -6,8 +6,8 @@ Currently employed, I'm also open to freelance opportunities.
 
 ## 👨‍💻 About
 
-- 💻 I'm a full-stack dev.
-- 🌐 I specialize in programming, vfx and system administration.
+- 💻 Full-stack dev.
+- 🌐 Specializes in programming, vfx and system administration.
 - 🏠 Based in Kota Kinabalu - Tawau, Malaysia.
 
 ## 🤷‍♂️ Skills
