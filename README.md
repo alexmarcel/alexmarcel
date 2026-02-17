@@ -27,6 +27,7 @@ Currently employed, also open to freelance opportunities.
 ## 🖐 Website
 
 - 📹 https://www.youtube.com/user/lxmarcel
+- 👻 https://www.tiktok.com/@alexmarcellinus
 - 🌐 www.alexmarcel.com
 
 
