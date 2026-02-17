@@ -24,7 +24,7 @@ Currently employed, also open to freelance opportunities.
 - ✉️ alexmarcellinus@gmail.com
 
 
-## 🖐 Website
+## 🖐 Socials
 
 - 📹 https://www.youtube.com/user/lxmarcel
 - 👻 https://www.tiktok.com/@alexmarcellinus
