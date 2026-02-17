@@ -2,7 +2,7 @@
 
 Artificial intelligence, programming, and visual effects. 
 Currently employed, also open to freelance opportunities. 
-- Current interest : Neural Nets, StableDiffusions, LLMs, React framework, Blockchains
+- Current interest : FPV drones, Neural Nets, StableDiffusions, LLMs, React framework, Blockchains
 
 ## 👨‍💻 About
 
