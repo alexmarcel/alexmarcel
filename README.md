@@ -9,7 +9,7 @@ Currently employed, also open to freelance opportunities.
 - 💻 Full-stack dev, vfx/cg generalist, system and network administration.
 - 🏠 Based in Kota Kinabalu - Tawau, Malaysia.
 
-## 🤷‍♂️ Skills
+## 🤷‍♂️ Proficiency
 
 - **Programming Languages:** Python, NextJS, NodeJS, SQL, Javascript+HTML+CSS, PHP.
 - **AI/ML/CV Frameworks:** PyTorch, OpenCV, ComfyUI.
