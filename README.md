@@ -13,7 +13,7 @@ Currently employed, also open to freelance opportunities.
 
 - **Programming Languages:** Python, NextJS, NodeJS, SQL, Javascript+HTML+CSS, PHP.
 - **AI/ML/CV Frameworks:** PyTorch, OpenCV, ComfyUI.
-- **Databases:** MySQL, MongoDB, Supabase.
+- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Supabase.
 - **Tools & Technologies:** n8n, Docker, Git, Visual Studio Code, Conda, Jupyterlabs/Colab, Arduino.
 - **VFX Software:** Blender, After Effects, Premiere Pro, Photoshop.
 - **Others:** System administration (network, server, hardware and software). Live AV. Photography.
